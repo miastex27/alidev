@@ -1,0 +1,3 @@
+fitur utama app :
+- Artikel berhubungan dengan programmer
+- Catatan Pembelajaran owner
