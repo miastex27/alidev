@@ -1,4 +1,4 @@
 fitur utama app :
 - Artikel berhubungan dengan programmer
-- Catatan Pembelajaran owner
 - Library keperluan program
+- Tutorial umum yang berhubungan dengan IT
